@@ -1,0 +1,221 @@
+﻿!Property,!Text,!Note
+AppName,Панель диагностики,Name of the app
+ButtonApply,Применить,Text of the apply button
+ButtonCancel,Отменить,Text of the cancel button
+ButtonClose,Закрыть,Text of the close button
+ButtonDonate,Пожертвовать,Text of the donate button
+ButtonDone,Готово,Text of the done button
+ButtonGitHub,GitHub,Text of the GitHub button
+ButtonGraph,График,Text of the graph button
+ButtonHide,Скрыть,Text of the hide button
+ButtonNo,Нет,Text of the no button
+ButtonReload,Перезапустить,Text of the reload button
+ButtonSave,Сохранить,Text of the save button
+ButtonSettings,Настройки,Text of the settings button
+ButtonShow,Показать,Text of the show button
+ButtonSkip,Пропустить,Text of the skip button
+ButtonUpdate,Обновление,Text of the update button
+ButtonVisibility,Видимость,Text of the visibility button
+ButtonYes,Да,Text of the yes button
+ChangeLogTitle,Change Log,Title of the change log window
+CPU,Процессор,CPU monitor title
+CPUClock,Частота процессора,Full name for CPU clock metric
+CPUClockLabel,Частота,Short label for CPU clock metric
+CPUCoreClock,Частота ядра,Full name for CPU core clock metric
+CPUCoreClockLabel,Ядро,Short label for CPU core clock metric
+CPUCoreLoad,Загрузка ядра,Full name for CPU core load metric
+CPUCoreLoadLabel,Загрузка,Short label for CPU core load metric
+CPUFan,Охлаждение CPU,Full name for CPU fan metric
+CPUFanLabel,Охлаждение,Short label for CPU fan metric
+CPULoad,Загрузка процессора,Full name for CPU load metric
+CPULoadLabel,Загрузка,Short label for CPU load metric
+CPUTemp,Температура процессора,Full name for CPU temp metric
+CPUTempLabel,Температура,Short label for CPU temp metric
+CPUVoltage,Напряжение процессора,Full name for CPU voltage metric
+CPUVoltageLabel,Напряжение,Short label for CPU voltage metric
+DriveFree,Свободно места,Full name for drive free metric
+DriveFreeLabel,Свободно,Short label for drive free metric
+DriveLoad,Загрузка диска,Full name for drive load metric
+DriveLoadBar,Индикатор загрузки,Full name for drive load bar metric
+DriveLoadBarLabel,Индикатор,Short label for drive load bar metric
+DriveLoadLabel,Загрузка,Short label for drive load metric
+DriveRead,Скорость чтения,Full name for drive read metric
+DriveReadLabel,Чтение,Short label for drive read metric
+Drives,Диски,Drives monitor title
+DriveUsed,Использовано места,Full name for drive used metric
+DriveUsedLabel,Используется,Short label for drive used metric
+DriveWrite,Скорость записи,Full name for drive write metric
+DriveWriteLabel,Запись,Short label for drive write metric
+ErrorPerformanceCounter,Ваш счетчик производительности поврежден. Нажмите кнопку ОК для перехода на страницу Wiki с описанием решения этой ошибки.,Text of the performance counter error
+ErrorTitle,Ошибка,Title of the error popup
+GPU,Видеокарта,GPU monitor title
+GPUCoreClock,Частота GPU,Full name for GPU core clock metric
+GPUCoreClockLabel,Ядро,Short label for RAM core clock metric
+GPUCoreLoad,Загрузка GPU,Full name for GPU core load metric
+GPUCoreLoadLabel,Загрузка,Short label for GPU core load metric
+GPUFan,Охлаждение GPU,Full name for GPU fan metric
+GPUFanLabel,Охлаждение,Short label for GPU voltage metric
+GPUTemp,Температура GPU,Full name for GPU temp metric
+GPUTempLabel,Температура,Short label for GPU temp metric
+GPUVoltage,Напряжение GPU,Full name for GPU voltage metric
+GPUVoltageLabel,Напряжение,Short label for GPU voltage metric
+GPUVRAMClock,Частота видеопамяти,Full name for GPU VRAM clock metric
+GPUVRAMClockLabel,Видеопамять,Short label for GPU VRAM clock metric
+GPUVRAMLoad,Загрузка видеопамяти,Full name for GPU VRAM load metric
+GPUVRAMLoadLabel,Загрузка VRAM,Short label for GPU VRAM load metric
+GraphConfigSectionTitle,Конфигурация,Title of the config section in the graph window
+GraphDuration,Длительность,Graph config duration label
+GraphDurationMinute,Минуту,Graph duration minute
+GraphDurationMinutes,Минут,Graph duration minutes plural
+GraphDurationSeconds,Секунд,Graph duration seconds
+GraphHardware,Оборудование,Graph config hardware label
+GraphMetrics,Метрики,Graph config metrics label
+GraphMonitor,Монитор,Graph config monitor label
+GraphTitle,График,Title of the graph window
+LanguageChangedText,Пожалуйста перезапустите приложение.,Text of the language changed popup
+LanguageChangedTitle,Язык изменился,Title of the language changed popup
+Network,Сеть,Network monitor title
+NetworkIn,Входящий канал,Full name for network in metric
+NetworkInLabel,Вх:,Short label for network in metric
+NetworkOut,Исходящий канал,Full name for network out metric
+NetworkOutLabel,Исх:,Short label for network out metric
+RAM,ОЗУ,RAM monitor title
+RAMClock,Частота ОЗУ,Full name for RAM clock metric
+RAMClockLabel,Частота,Short label for RAM clock metric
+RAMFree,Свободно памяти,Full name for RAM free metric
+RAMFreeLabel,Свободно,Short label for RAM free metric
+RAMLoad,Загрузка ОЗУ,Full name for RAM load metric
+RAMLoadLabel,Загрузка,Short label for RAM load metric
+RAMUsed,Используется ОЗУ,Full name for RAM load metric
+RAMUsedLabel,Используется,Short label for RAM used metric
+RAMVoltage,Напряжение ОЗУ,Full name for RAM voltage metric
+RAMVoltageLabel,Напряжение,Short label for RAM voltage metric
+Settings24HourClock,24-часовой формат,Settings 24 hour clock label
+Settings24HourClockTooltip,Устанавливает 24-часовой формат времени.,Settings 24 hour clock tooltip
+SettingsAdvancedTab,Дополнительно,Title of the settings advanced tab
+SettingsAlertBlink,Уведомления,Settings alert blink label
+SettingsAlertBlinkTooltip,Индикация предупреждающего текста на панели диагностики.,Settings alert blink tooltip
+SettingsAlertFontColor,Цвет уведомлений,Settings alert font color label
+SettingsAlertFontColorTooltip,Цвет текста уведомлений.,Settings alert font color tooltip
+SettingsAllCoreClocks,Показать частоту всех ядер,Settings all core clocks label
+SettingsAllCoreClocksTooltip,Показывает тактовую частоту всех ядер.,Settings all core clocks tooltip
+SettingsAltTab,Показывать в меню Alt + Tab,Settings alt tab label
+SettingsAltTabTooltip,Показывает панель диагностики в меню Alt + Tab.,Settings alt tab tooltip
+SettingsAlwaysOnTop,Поверх всех окон,Settings always on top label
+SettingsAlwaysOnTopTooltip,Всегда отображает панель диагностики поверх остальных окон.,Settings always on top tooltip
+SettingsAutoBackground,Авто цвет фона,Settings auto background label
+SettingsAutoBackgroundTooltip,Установит цвет фона панели диагностики из темы Windows.,Settings auto background tooltip
+SettingsAutoUpdate,Автообновление,Settings auto update label
+SettingsAutoUpdateTooltip,Автоматическое обновление панели диагностики при выходе новой версии.,Settings auto update tooltip
+SettingsBackgroundColor,Цвет фона,Settings background color label
+SettingsBackgroundColorTooltip,Выбрать цвет фона для панели.,Settings background color tooltip
+SettingsBackgroundOpacity,Прозрачность фона,Settings background opacity label
+SettingsBackgroundOpacityTooltip,Изменяет значение прозрачности фона панели диагностики.,Settings background opacity tooltip
+SettingsBandwidthInAlert,Уведомлять о превышении,Settings bandwidth in alert label
+SettingsBandwidthInAlertTooltip,Устанавливает нижнее значение пропускной способности канала в Кбит/с или Кбайт/с при превышении которого происходит индикация на панели. Используйте 0 для отключения.,Settings bandwidth in alert tooltip
+SettingsBandwidthOutAlert,Уведомлять о превышении,Settings bandwidth out alert label
+SettingsBandwidthOutAlertTooltip,Устанавливает нижнее значение пропускной способности канала в Кбит/с или Кбайт/с при превышении которого происходит индикация на панели. Используйте 0 для отключения.,Settings bandwidth out alert tooltip
+SettingsClickThrough,Пропускать нажатия мыши,Settings click through label
+SettingsClickThroughTooltip,События мыши передаются сквозь панель. Это позволяет предотвратить взаимодействие с панелью диагностики.,Settings click through tooltip
+SettingsCollapseMenuBar,Свернуть меню,Settings collapse menu bar label
+SettingsCollapseMenuBarTooltip,Удаляет дополнительное пространство в верхней части панели диагностики.,Settings collapse menu bar tooltip
+SettingsCoreLoads,Показать нагрузку ядра,Settings core loads label
+SettingsCoreLoadsTooltip,Показывает процент загрузки всех ядер.,Settings core loads tooltip
+SettingsCustomizeTab,Вид,Title of the settings customize tab
+SettingsDateFormat,Формат даты,Settings date format label
+SettingsDateFormatDisabled,Отключен,Settings date format disabled value
+SettingsDateFormatTooltip,Формат даты на панели диагностики.,Settings date format tooltip
+SettingsDock,Пристыковать,Dock settings label
+SettingsDockBottom,Вниз,Dock bottom settings label
+SettingsDockLeft,Слева,Dock left settings label
+SettingsDockRight,Справа,Dock right settings label
+SettingsDockTooltip,Устанавливает к какому краю будет прикреплена боковая панель.,Dock settings tooltip
+SettingsDockTop,Наверх,Dock top settings label
+SettingsDriveDetailsTooltip,Показывает дополнительные данные о диске как текст.,Settings drive details tooltip
+SettingsFontColor,Цвет шрифта,Settings font color label
+SettingsFontColorTooltip,Цвет текста и значков на панели диагностики.,Settings font color tooltip
+SettingsFontSize,Размер шрифта,Settings font size label
+SettingsFontSizeTooltip,Размер текста и значков на панели диагностики.,Settings font size tooltip
+SettingsGeneralTab,Общие,Title of the settings general tab
+SettingsHardwareColumn1,Включен,Settings hardware data grid enabled column header
+SettingsHardwareColumn2,Оборудование,Settings hardware data grid hardware column header
+SettingsHardwareEnabledTooltip,Включить это оборудование.,Settings hardware enabled checkbox tooltip
+SettingsHardwareNameTooltip,Нажмите для изменения названия этого оборудования.,Settings hardware name tooltip
+SettingsHorizontalOffset,Смещение по горизонтали,Horizontal offset settings label
+SettingsHorizontalOffsetTooltip,Смещение панели диагностики по горизонтали.,Horizontal offset settings tooltip
+SettingsHotkeyClose,Закрыть,Settings hotkey close label
+SettingsHotkeyCycleEdge,Изменить положение,Settings hotkey switch edge
+SettingsHotkeyCycleScreen,Сменить экран,Settings hotkey switch screen
+SettingsHotkeyHide,Скрыть,Settings hotkey hide label
+SettingsHotkeyReload,Перезапуск,Settings hotkey reload label
+SettingsHotkeyShow,Показать,Settings hotkey show label
+SettingsHotkeysTab,Горячие клавиши,Title of the settings hotkeys tab
+SettingsHotkeyToggle,Переключить,Settings hotkey toggle label
+SettingsLanguage,Язык,Settings language label
+SettingsLanguageDefault,По умолчанию,Settings language default label
+SettingsLanguageTooltip,Текущий язык приложения.,Settings language tooltip
+SettingsMetrics,Метрики:,Settings metrics label with colon
+SettingsMetricsTooltip,Включить/отключить показатели.,Settings metrics tooltip
+SettingsMonitorEnabledTooltip,Включает этот монитор.,Settings monitor enabled checkbox tooltip
+SettingsMonitorsColumn1,Включен,Settings monitors data grid enabled column header
+SettingsMonitorsColumn2,Монитор,Settings monitors data grid monitor column header
+SettingsMonitorsSubtitle1,Щелкните по строке с монитором для изменения его параметров.,Settings monitors subtitle line one
+SettingsMonitorsSubtitle2,Перетащите строку монитора для изменения порядка отображения на панели.,Settings monitors subtitle line two
+SettingsMonitorsTab,Мониторы,Title of the settings monitors tab
+SettingsPollingInterval,Интервал запросов,Settings polling interval label
+SettingsPollingIntervalTooltip,Время между запросами обновления данных на панели в миллисекундах.,Settings polling interval tooltip
+SettingsReserveSpace,Резерв места,Settings reserve space label
+SettingsReserveSpaceTooltip,Резервирует пространство на рабочем столе для панели диагностики.,Settings reserve space tooltip
+SettingsRoundAllDecimals,Округлять десятичные значения,Settings round all decimals label
+SettingsRoundAllDecimalsTooltip,Все дробные значения округляются до ближайшего целого числа.,Settings round all decimals tooltip
+SettingsRunAtStartup,Автозапуск,Settings run at startup label
+SettingsRunAtStartupTooltip,Запускает приложение при входе в систему.,Settings run at startup tooltip
+SettingsScreen,Экран,Screen settings label
+SettingsScreenTooltip,Экран боковой панели будет дальше.,Screen settings tooltip
+SettingsShowClock,Показывать часы,Settings show clock label
+SettingsShowClockTooltip,Отображает часы на панели.,Settings show clock tooltip
+SettingsShowDriveDetails,Показать данные накопителя,Settings show drive details label
+SettingsShowDriveIO,Показать привод IO,Settings show drive IO label
+SettingsShowDriveIOTooltip,Показывает скорость чтения и записи дисков если информация о диске включена.,Settings show drive IO tooltip
+SettingsShowDriveSpace,Показать свободное место,Settings show drive space label
+SettingsShowDriveSpaceTooltip,Показывает процент нагрузки использование пространства и свободного места если информация о диске включена.,Settings show drive space tooltip
+SettingsShowHardwareNames,Показывать название оборудования,Settings show hardware names label
+SettingsShowHardwareNamesTooltip,Отображает названия оборудования на панели.,Settings show hardware names tooltip
+SettingsShowTrayIcon,Значок в трее,Settings show tray icon label
+SettingsShowTrayIconTooltip,Показывает значок в трее на панели задач.,Settings show tray icon tooltip
+SettingsSidebarWidth,Ширина панели,Settings sidebar width label
+SettingsSidebarWidthTooltip,Устанавливает ширину панели в пикселях.,Settings sidebar width tooltip
+SettingsTemperatureAlert,Уведомлять о превышении,Settings temperature alert label
+SettingsTemperatureAlertTooltip,Устанавливает нижнее значение температуры при превышении которой происходит индикация на панели. Используйте 0 для отключения.,Settings temperature alert tooltip
+SettingsTextAlign,Выравнивание текста,Settings text align label
+SettingsTextAlignLeft,по левому краю,Settings text align left value
+SettingsTextAlignRight,по правому краю,Settings text align right value
+SettingsTextAlignTooltip,Изменяет выравнивание текста метрики на панели диагностики.,Settings text align tooltip
+SettingsTitle,Настройки,Title of the settings window
+SettingsUIScale,Масштаб,Settings UI scale label
+SettingsUIScaleTooltip,Изменяет масштаб элементов интерфейса панели диагностики.,Settings UI scale tooltip
+SettingsUseBytesPerSecond,Использовать величину Кбайт/с,Settings use bytes per second label
+SettingsUseBytesPerSecondTooltip,Устанавливает величину байт в секунду (Кбайт/с) для мониторинга пропускной способности канала. По умолчанию бит в секунду (Кбит/с).,Settings use bytes per second tooltip
+SettingsUsedSpaceAlert,Уведомлять о превышении,Settings used space alert label
+SettingsUsedSpaceAlertTooltip,Устанавливает нижнее значение в процентах (%) для свободного пространства на диске при превышении которого происходит индикация на панели. Используйте 0 для отключения.,Settings used space alert tooltip
+SettingsUseFahrenheit,Выводить температуру по Фаренгейту,Settings use fahrenheit label
+SettingsUseFahrenheitTooltip,Температура для датчиков и оповещения будут выводиться в градусах Фаренгейта. По умолчанию в градусах Цельсия.,Settings use fahrenheit tooltip
+SettingsUseGHz,Выводить частоту в ГГц,Settings use GHz label
+SettingsUseGHzTooltip,Тактовая частота на панели диагностики выводится в ГГц. По умолчанию в МГц.,Settings use GHz tooltip
+SettingsVerticalOffset,Смещение по вертикали,Vertical offset settings label
+SettingsVerticalOffsetTooltip,Смещение панели диагностики по вертикали.,Vertical Offset settings tooltip
+SetupCustomSubtitle,Используйте ползунки или текстовые поля для перемещения панель диагностики в нужное положение на рабочем столе.,Subtitle of the custom setup page
+SetupCustomTitle,Настройка расположения,Title of the custom setup page
+SetupDoneSubtitle,Если хотите настроить панель диагностики нажмите кнопку настройки.,Subtitle of the setup done page
+SetupDoneText,Доступ к настройкам также можно получить через иконку шестеренки в правом верхнем углу панели или через иконку в трее на панели задач.,Text of the setup done page
+SetupDoneTitle,Готово!,Title of the setup done page
+SetupSubtitle,Быстрая установка поможет разместить панель диагностики в правильном положении.,Subtitle of the initial setup page
+SetupText,Панель диагностики отображается и пристыкована к правому краю основного монитора?,Text of the initial setup page
+SetupTitle,Начальная настройка,Title of the initial setup page
+Sidebar,Панель диагностики,Title of the sidebar window
+Time,Время,Sidebar clock title
+UpdateErrorFatalText,Произошла ошибка при попытке обновления. Автоматическое обновление отключено.,Fatal text of the update error popup
+UpdateErrorText,Не удается выполнить обновление. Проверьте подключение к интернету.,Text of the update error popup
+UpdateErrorTitle,Ошибка обновления,Title of the update error popup
+UpdateSuccessText,Используется последняя версия.,Text of the update success popup
+UpdateTitle,Обновление,Title of the update window
